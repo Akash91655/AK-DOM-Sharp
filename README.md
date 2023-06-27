@@ -10,7 +10,7 @@
 <body>
   <header id="main-header" class="bg-success text-white p-4 mb-3">
     <div class="container">
-      <h1 id="header-title">Item Lister <span style="display:none">123</span></h1>
+      <h1 id="header-title">Item Lister </h1>
     </div>
   </header>
   <div class="container">
@@ -27,10 +27,9 @@
       <li class="list-group-item">Item 2</li>
       <li class="list-group-item">Item 3</li>
       <li class="list-group-item">Item 4</li>
-      <li>Item 5</li>
     </ul>
    </div>
   </div>
-   <script src="S1dom.js"></script>
+    <script src="S1dom.js"></script>
 </body>
 </html>
